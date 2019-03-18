@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# Hello!
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Graduated from National University of Malaysia, major in Computer Science.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Currently living in Tangerang, Indonesia. Main interests are games, technology, and digital trends.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Knowledge is important, appearance is a plus, what is matter is inside your brain. Hit me up if you want to grab some drinks, I'd love to hear your story.
