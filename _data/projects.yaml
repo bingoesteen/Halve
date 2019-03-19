@@ -6,12 +6,12 @@
 - title: Ditoko
   url: https://imgur.com/IURd7Ba
   image: https://i.imgur.com/IURd7Ba.jpg
-  completed: false
+  completed: true
   
 - title: Laruno
   url: https://imgur.com/RZeMXds
   image: https://i.imgur.com/RZeMXds.jpg
-  completed: false
+  completed: true
   
 - title: Shopee Guess and Win
   url: https://imgur.com/jptggeY
@@ -21,4 +21,4 @@
 - title: Stalwart
   url: https://imgur.com/nanlcms
   image: https://i.imgur.com/nanlcms.jpg
-  completed: false
+  completed: true
