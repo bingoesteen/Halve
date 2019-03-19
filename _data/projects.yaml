@@ -1,4 +1,24 @@
-#- title: Halve Jekyll Theme
- # url: http://taylantatli.me/Halve
-  #image: http://taylantatli.me/Halve/images/halve-home-image.png
-#completed: false
+- title: Decathlon
+  url: https://imgur.com/fJFW8iG
+  image: https://i.imgur.com/fJFW8iG.jpg
+  completed: true
+  
+- title: Ditoko
+  url: https://imgur.com/IURd7Ba
+  image: https://i.imgur.com/IURd7Ba.jpg
+  completed: false
+  
+- title: Laruno
+  url: https://imgur.com/RZeMXds
+  image: https://i.imgur.com/RZeMXds.jpg
+  completed: false
+  
+- title: Shopee Guess and Win
+  url: https://imgur.com/jptggeY
+  image: https://imgur.com/jptggeY.jpg
+  completed: false
+  
+- title: Stalwart
+  url: https://imgur.com/nanlcms
+  image: https://i.imgur.com/nanlcms.jpg
+  completed: false
