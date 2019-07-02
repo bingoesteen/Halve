@@ -5,7 +5,7 @@ layout: home
 
 I recently graduated from National University of Malaysia, major in Computer Science focusing on Software Technology
 
-Currently working and living in Tangerang, Indonesia. My main interests are games, technology, and digital trends.
+Currently working in Jakarta, Indonesia. My main interests are games, technology, and digital trends.
 
 I have a strong interest in digital trends and I create concepts for websites and apps. My passion is coming up with creative ways to express messages and ensures people to understand.
 
