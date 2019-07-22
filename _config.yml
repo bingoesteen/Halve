@@ -1,7 +1,7 @@
 # Site
-title: Suryananda Aridantang
-description: UI/UX Designer
-url: https://aridantang.github.io/
+title: Bhaskoro Abdillah Muthohar
+description: Junior Data Scientist
+url: https://bhaskoro-muthohar.github.io/
 logo: foto.png                                       # Site logo
 locale: en_US
 
@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:              aridantang@gmail.com
+email:              bhaskoro.jr@gmail.com
 #google.plus:        username
-twitter:            bingoesteen
+twitter:            Bhaskoro_AM
 #facebook:           username
-github:             aridantang
+github:             bhaskoro-muthohar
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          aridantang
+instagram:          bhaskoro.muthohar
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
