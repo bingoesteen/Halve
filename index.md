@@ -3,7 +3,7 @@ layout: home
 ---
 # Hello!
 
-I currently enrolled as Chemical Engineering as last year Student. I am looking for intern or co-op to boost my experiences and skills in Data Scientist.
+I currently enrolled in Chemical Engineering as last year Student. I am looking for intern or co-op to boost my experiences and skills in Data Scientist.
 
 I have experience using Matlab to completed my projects. Expert in operating Microsoft Office and good on using Excel macro and VBA.
 
