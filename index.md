@@ -9,4 +9,4 @@ I have been experienced using Matlab to completed my projects. Expert in operati
 
 I have a strong interest in data science, big data, blockchain, and cryptocurrency. My passion is coming up with strong analytical thinking and the way I loved coding so much.
 
-You can download my resume [here](https://drive.google.com/file/d/1Q2XnhOr-eVpGOseug-D6xfICZs5DTu7U/view?usp=sharing) and my portfolio can be accessed at my github or click [here](https://github.com/bhaskoro-muthohar/DataScienceLearning) for my Data Science learning projects.
+You can download my resume [here](https://drive.google.com/file/d/1Q2XnhOr-eVpGOseug-D6xfICZs5DTu7U/view?usp=sharing). My portfolio can be accessed on my github or click [here](https://github.com/bhaskoro-muthohar/DataScienceLearning) for my Data Science learning projects. I also have badges from IBM at [youracclaim.com](https://www.youracclaim.com/users/bhaskoro-muthohar/badges)
