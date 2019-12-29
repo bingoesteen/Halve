@@ -9,4 +9,9 @@ In my journey to become a Data Scientist, I have been getting my hand's dirty pr
 have done on GitHub, and I believe that becoming a Data Scientist means becoming lifelong learning. I invest my savings on books
 Statistics, Machine Learning, Python for data science, and Self-Developments books. I have a keen interest in data science, big data, blockchain, and cryptocurrency. My passion is coming up with strong analytical thinking and the way I loved coding so much.
 
-You can download my resume [here](https://drive.google.com/file/d/197ExIGXfQezEPQlAX2ALMnBXTJwOIVku/view?usp=sharing). My portfolio can be accessed on my GitHub or click [here](https://github.com/bhaskoro-muthohar/DataScienceLearning) for my Data Science learning projects. I also have badges from IBM at [youracclaim.com](https://www.youracclaim.com/users/bhaskoro-muthohar/badges)
+You can download my resume [here](https://drive.google.com/file/d/197ExIGXfQezEPQlAX2ALMnBXTJwOIVku/view?usp=sharing). I also have badges from IBM at [youracclaim.com](https://www.youracclaim.com/users/bhaskoro-muthohar/badges).
+
+[My portfolio](https://github.com/bhaskoro-muthohar/DataScienceLearning) for for Data Worlds are:
+1. Analisa Data Pokemon berdasarkan Tipe Legendari dan Bukan Legendari. [Article](https://www.linkedin.com/pulse/analisa-data-pokemon-berdasarkan-tipe-legendari-dan-bukan-muthohar/)
+2. Analyzing why people quit their job and who will quit next. Using Python and Machine Learning, Decision Tree Algorithm.[Article](https://www.linkedin.com/pulse/analyzing-why-people-quit-job-who-next-using-python-machine-muthohar/)
+3. Mapping-Tempat-Populer-di-Pekanbaru [Github](https://github.com/bhaskoro-muthohar/Mapping-Tempat-Populer-di-Pekanbaru)
