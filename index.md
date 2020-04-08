@@ -14,4 +14,4 @@ I am describing myself as a lifelong learner, a solutions-oriented mindset, espe
 4. [Analisa Data Pokemon berdasarkan Tipe Legendari dan Bukan Legendari.](https://www.linkedin.com/pulse/analisa-data-pokemon-berdasarkan-tipe-legendari-dan-bukan-muthohar/)
 5. [Analyzing why people quit their job and who will quit next. Using Python and Machine Learning, Decision Tree Algorithm.](https://www.linkedin.com/pulse/analyzing-why-people-quit-job-who-next-using-python-machine-muthohar/)
 
-You can download my resume [here](https://drive.google.com/file/d/197ExIGXfQezEPQlAX2ALMnBXTJwOIVku/view?usp=sharing).
+[You can download my resume here](https://drive.google.com/open?id=16dOPsGBvDIrUiEuUtip4BoOvU0lSJh6y).
