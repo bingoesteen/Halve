@@ -9,7 +9,7 @@ I am describing myself as a lifelong learner, a solutions-oriented mindset, espe
 
 [My portfolio](https://github.com/bhaskoro-muthohar/DataScienceLearning) for Data Cases are:
 1. [Analisa Sentimen Twitter](https://github.com/bhaskoro-muthohar/Twitter-Sentimen-Analisis)
-2. [Created Credit Scoring Model using Machine Learning Algorithm](https://github.com/bhaskoro-muthohar/Credit-Modelling
+2. [Created Credit Scoring Model using Machine Learning Algorithm](https://github.com/bhaskoro-muthohar/Credit-Modelling)
 3. [Forecasting Sales Using Prophet](https://bhaskoro-muthohar.github.io//Forecasting-Sales-Using-Prophet/)
 4. [Analisa Data Pokemon berdasarkan Tipe Legendari dan Bukan Legendari.](https://www.linkedin.com/pulse/analisa-data-pokemon-berdasarkan-tipe-legendari-dan-bukan-muthohar/)
 5. [Analyzing why people quit their job and who will quit next. Using Python and Machine Learning, Decision Tree Algorithm.](https://www.linkedin.com/pulse/analyzing-why-people-quit-job-who-next-using-python-machine-muthohar/)
