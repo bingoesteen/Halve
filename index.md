@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Hello My Name is Bhaskoro!
+# Hello, I am Bhaskoro!
 
 Data enthusiast with demonstrated versatility and eagerness to learn in a fast-paced environment. Experienced as junior data that working in the financial technology industry. Knowledge in use of Machine Learning, Data Visualization, Data Mining, Data Analysis and Statistics in Python and essential understanding of SQL, Tableau, and MATLAB.
 
