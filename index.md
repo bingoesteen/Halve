@@ -3,10 +3,13 @@ layout: home
 ---
 # Hello!
 
-I recently graduated from National University of Malaysia, major in Computer Science focusing on Software Technology
+Creative and detail-oriented UI/UX designer with exceptional skill level and experience in various mediums, such as dashboard, website, and mobile apps. 
+Highly adept with wireframing and prototyping, designing products by following digital trends and user needs.
 
 Currently working in Jakarta, Indonesia. I am also open for a freelance project (UI, UX, or both are okay!) kindly contact me to discuss.
 
 My main interests are games, technology, and digital trends. I have a strong interest in digital trends and I create concepts for websites and apps. My passion is coming up with creative ways to express messages and ensures people to understand.
 
-You can download my resume [here](https://doc-10-78-docs.googleusercontent.com/docs/securesc/dv8u3p8q3llai4fotkqmf0fub679p44q/er2on02c4q3ose338nji1vo88p1e2qvf/1553220000000/10636627547783116656/10636627547783116656/1uZbeZNPD1QvI-vaD1DO5IbS9VPkZE4bx?e=download) and my portfolio can be accessed at the top-right icon above or click [here](https://dribbble.com/aridantang) for my whole projects.
+You can view my resume [here](https://i.imgur.com/ogwBjN3.jpg) and my portfolio can be accessed [here](https://dribbble.com/aridantang).
+
+Looking forward to make opportunities with you 😁😁
