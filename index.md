@@ -3,13 +3,12 @@ layout: home
 ---
 # Hello!
 
-Creative and detail-oriented UI/UX designer with exceptional skill level and experience in various mediums, such as dashboard, website, and mobile apps. 
-Highly adept with wireframing and prototyping, designing products by following digital trends and user needs.
+Coming up with creative ways to solve problems with user oriented perspective to create product that people enjoy to use. Having background in HCI and 2 years experience in digital design and product development makes me confident to deliver best results
 
-Currently working in Jakarta, Indonesia. I am also open for a freelance project (UI, UX, or both are okay!) kindly contact me to discuss.
+Currently working in Jakarta, Indonesia. I am also open for a freelance project, kindly [contact me](mailto:aridantang@gmail.com). to discuss.
 
 My main interests are games, technology, and digital trends. I have a strong interest in digital trends and I create concepts for websites and apps. My passion is coming up with creative ways to express messages and ensures people to understand.
 
-Here is my [resume](https://i.imgur.com/LHWolc4.jpg) and [portfolio](https://dribbble.com/aridantang).
+Here are my [resume](https://i.imgur.com/LHWolc4.jpg) and [portfolio](https://dribbble.com/aridantang).
 
 Looking forward to make opportunities with you 😁😁
